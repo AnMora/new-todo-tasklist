@@ -1,0 +1,27 @@
+import React from 'react';
+
+export function TodoForm() {
+    return (
+        <nav className="navbar navbar-dark bg-dark p-3">
+            <a href="##" className="text-white">
+                Task
+                {/* { "Hello".toUpperCase() } */}
+            </a>
+        </nav>
+        /* <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <h1 className="display-1">
+          XllxMllRAxllX
+        </h1>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub AnMora
+        </a>
+      </header> */
+      /* <Navigation /> */
+    );
+}
